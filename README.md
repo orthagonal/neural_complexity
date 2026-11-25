@@ -17,6 +17,7 @@ Every layer primitive is standardized to accept a 3D sequence tensor of shape `(
 ---
 
 ## 2. Layer Landscape Results: Good vs. Bad Regimes
+![table of layer landscape](layer_difficulty_landscape_8x6.png)
 
 The table below summarizes findings from the **8 Layer Primitives × 6 Problem Regimes** benchmark (`d=16`, `L=16`):
 
